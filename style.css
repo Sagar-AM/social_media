@@ -1,6 +1,55 @@
-:root{
-    --soft-light-gray:#f8f9fa
+
+
+
+.homebg{
+    background-color: rgb(0, 0, 0);
 }
 
+.homebg2{
+    background-color: rgb(71, 69, 69);
+}
 
+/* dp */
+
+.dp {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+/* dp end */
+
+/* home nav  */
+.home-nav-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+  padding: 8px 12px;
+  border-radius: 20px;
+  display: inline-block;
+}
+.home-nav-link:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+
+/* nav end */
+
+
+/* bg-img */
+.bg-img{
+  height: 200px;
+}
+
+/* bg-img */
+
+/* profile */
+.profile{
+  height: 70%;
+  border: 3px solid black;
+  border-radius: 50%;
+  
+}
+
+/* profile */
 
